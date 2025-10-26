@@ -1,0 +1,8 @@
+/* .head{
+  @apply font-bold underline text-center my-4;
+} */
+table, th, td {
+  max-width: 50rem;
+  border: 1px solid black;
+  border-radius: 10px;
+}
