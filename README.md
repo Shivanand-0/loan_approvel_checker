@@ -18,7 +18,7 @@ It consists of two parts:
 
 ## Repository Structure
 loan_approvel_checker/
-├── frontend/ ← Web UI (HTML/JavaScript/CSS)
+|-- frontend/ ← Web UI (HTML/JavaScript/CSS)
 ├── mlModel/ ← Model training, preprocessing, saved weights or notebooks
 ├── resource/ ← Data files, documentation, sample inputs
 ├── requirements.txt ← Python dependencies
