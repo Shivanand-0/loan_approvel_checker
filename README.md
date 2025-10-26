@@ -27,4 +27,7 @@ loan_approvel_checker/
 <img src='https://github.com/Shivanand-0/loan_approvel_checker/blob/main/resource/Screenshot%202025-10-27%20004538.png'>
 
 
+<img src='https://github.com/Shivanand-0/loan_approvel_checker/blob/main/resource/Screenshot%202025-10-27%20004636.png'>
+
+
 
