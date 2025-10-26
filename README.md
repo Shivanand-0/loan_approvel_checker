@@ -18,11 +18,11 @@ It consists of two parts:
 
 ## Repository Structure
 loan_approvel_checker/
-|-- frontend/ ← Web UI (HTML/JavaScript/CSS)
-├── mlModel/ ← Model training, preprocessing, saved weights or notebooks
-├── resource/ ← Data files, documentation, sample inputs
-├── requirements.txt ← Python dependencies
-└── README.md ← This file
+- frontend/ ← Web UI (HTML/JavaScript/CSS)
+- mlModel/ ← Model training, preprocessing, saved weights or notebooks
+- resource/ ← Data files, documentation, sample inputs
+- requirements.txt ← Python dependencies
+- README.md ← This file
 ## Output
 <img src='https://github.com/Shivanand-0/loan_approvel_checker/blob/main/resource/Screenshot%202025-10-27%20004538.png'>
 
