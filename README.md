@@ -24,6 +24,7 @@ loan_approvel_checker/
 ├── requirements.txt ← Python dependencies
 └── README.md ← This file
 ## Output
+<img src='https://github.com/Shivanand-0/loan_approvel_checker/blob/main/resource/Screenshot%202025-10-27%20004538.png'>
 
 
 
